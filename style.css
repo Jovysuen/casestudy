@@ -1,0 +1,49 @@
+.title{
+    font-style: oblique;
+    color: black;
+    text-align: center;
+}
+.image{
+    width: 300;
+    height: 300;
+}
+#ct{
+    text-align: center;
+}
+#mn{
+    width: 200;
+    height: 200;
+    position: center;
+}
+.referance{
+    background: grey;
+		padding: 10px;
+		float: left;
+		border-radius: 15px;
+        width: 100%;
+}
+.result{
+    background: black;
+    color: white;
+    padding: 10px;
+    float: right;
+    border-radius: 15px;
+    width: 80%;
+}
+#ref{
+    background: grey;
+		padding: 10px;
+		float: left;
+		border-radius: 15px;
+}
+#re{
+    background: black;
+    color: white;
+    padding: 10px;
+    float: right;
+    border-radius: 15px;
+    width: 80%;
+}
+.abc{
+    background-color: rgb(19, 86, 167);
+}
